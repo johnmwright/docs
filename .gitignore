@@ -2,6 +2,7 @@ docs/_build/
 .idea/
 *.swp
 rebuild.cmd
+obj/.cache
 
 # Business Intelligence projects
 *.rdl.data
